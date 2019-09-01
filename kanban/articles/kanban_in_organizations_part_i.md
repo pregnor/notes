@@ -1,6 +1,4 @@
-# Kanban in Organizations Part I
-
-Source: https://www.projectwizards.net/en/blog/2018/11/kanban-organizations
+# [Kanban in Organizations Part I](https://www.projectwizards.net/en/blog/2018/11/kanban-organizations)
 
 ## What is Kanban?
 

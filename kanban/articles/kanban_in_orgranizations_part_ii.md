@@ -1,6 +1,4 @@
-# Kanban in Organizations Part II
-
-Source: https://www.projectwizards.net/en/blog/2019/01/kanban-corepractices
+# [Kanban in Organizations Part II](https://www.projectwizards.net/en/blog/2019/01/kanban-corepractices)
 
 ## What is a workflow system?
 
